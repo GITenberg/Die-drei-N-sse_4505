@@ -1,0 +1,35 @@
+_repo: Die-drei-N-sse_4505
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brentano, Clemens
+    aliases:
+    - Brentano, Clement
+    - Von Brentano, Clemens
+    - Brentano, Clemens Maria
+    - Brentano, Clemens von
+    birthdate: 1778
+    deathdate: 1842
+    gutenberg_agent_id: '882'
+    url: http://www.gutenberg.org/2009/agents/882
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Clemens_Brentano
+    - http://de.wikipedia.org/wiki/Clemens_Brentano
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4505'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Colmar (Alsace, France and Elsass, Germany) -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Chemists -- Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+title: Die drei Nüsse
+url: http://www.gutenberg.org/ebooks/4505
